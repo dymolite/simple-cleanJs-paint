@@ -1,0 +1,8 @@
+.canvas {
+    height: 100lvh;
+    overflow: hidden;
+}
+nav {
+    height: 100vh;
+    background-color: aqua;
+}
